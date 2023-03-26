@@ -1,6 +1,7 @@
 # Vinted Homework Task
 
 This is a simple implementation of my own map-reduce framework  
+
 I have created a couple of versions for this framework, but I went with the one that is making new files for intermediate data. I
 think this is the most optimal solution keeping in mind that the given data was supposed to be a lot bigger in a realistic situation
 
